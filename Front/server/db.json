@@ -1,0 +1,20 @@
+{
+  "suppliers": [
+    {
+      "id": 1,
+      "ruc": 20484066702,
+      "name": "DRAKKON SERVICIOS GENERALES EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA"
+    },
+    {
+      "id": 2,
+      "ruc": 20484066345,
+      "name": "DRAKKON"
+    }
+  ,
+    {
+      "id": 3,
+      "ruc": 20466066345,
+      "name": "Hanana"
+    }
+  ]
+}
